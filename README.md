@@ -32,10 +32,10 @@ The following screen shows the transactions for a given block number.
 
 ## Important notes
 
-For local testing of the app, run the local version of API (refer Ethereum API at https://github.com/dotsushant/ethereum-api for setup details).
+For local testing of the app, run the local version of API (refer Ethereum API at https://github.com/iamsushantk/ethereum-api for setup details).
 
 The transaction results are paged for better user experience.
 
-The app uses back end api (refer my another project Ethereum API at https://github.com/dotsushant/ethereum-api which in turn uses Infura API (refer https://infura.io/docs/ethereum)
+The app uses back end api (refer my another project Ethereum API at https://github.com/iamsushantk/ethereum-api which in turn uses Infura API (refer https://infura.io/docs/ethereum)
 
 Infura API has rate limit imposed (refer https://infura.io/pricing) which may also slow down the processing.
